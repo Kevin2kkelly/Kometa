@@ -1,6 +1,6 @@
 # Letterboxd Charts Collections
 
-The `letterboxd` Default Collection File is used to create collections based on lists .
+The `letterboxd` Default Collection File is used to create collections based on lists from Letterboxd.
 
 ![](../images/letterboxd.png)
 
